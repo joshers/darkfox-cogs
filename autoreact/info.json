@@ -1,0 +1,28 @@
+{
+    "author" : [
+        "Josh"
+    ],
+    "bot_version" : [
+        3,
+        0,
+        0
+    ],
+    "description" : "Autoreact",
+    "disabled" : false,
+    "hidden" : false,
+    "install_msg" : "Usage: `[p]autoreact [stuff]`",
+    "min_python_version" : [
+        3,
+        6,
+        2
+    ],
+    "name" : "autoreact",
+    "permissions" : [],
+    "required_cogs" : [],
+    "requirements" : [],
+    "short" : "autoreact",
+    "tags" : [
+        "autoreact"
+    ],
+    "type" : "COG"
+}
